@@ -1,3 +1,5 @@
+/*@import url() font url;*/
+
 body * {
     box-sizing: border-box;
 }
@@ -10,6 +12,9 @@ body {
 Add some style blocks below this line to style the cards.
 Feel free to borrow from Exercise 1.
 */
+h2{
+    /*font-family: Vejahday Script, cursive;*/
+}
 main {
     display: flex;
 }
